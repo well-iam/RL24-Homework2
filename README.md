@@ -6,10 +6,15 @@ This package contains the developed code for the second homework of the Robotics
 William Notaro, Chiara Panagrosso, Salvatore Piccolo, Roberto Rocco
 
 ## :hammer: Build
-Clone this package in the `src` folder of your ROS 2 workspace.  If you want to only clone the content files without creating the repo folder, use
+Clone this package in the `src` folder of your ROS 2 workspace.  If you want to only clone the content files without creating the repo folder (only works if the destination folder is empty), use:
+```
+$ git clone https://github.com/well-iam/RL24-Homework2 .
+```
+Alternatively, use:
 ```
 $ git clone https://github.com/well-iam/RL24-Homework2
 ```
+
 Build the two packages
 ```
 $ colcon build
