@@ -8,7 +8,7 @@ William Notaro, Chiara Panagrosso, Salvatore Piccolo, Roberto Rocco
 ## :hammer: Build
 Clone this package in the `src` folder of your ROS 2 workspace.  If you want to only clone the content files without creating the repo folder, use
 ```
-$ git clone https://github.com/well-iam/RL24-RepoHomework2
+$ git clone https://github.com/well-iam/RL24-Homework2
 ```
 Build the two packages
 ```
