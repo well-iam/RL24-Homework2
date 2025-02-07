@@ -1,7 +1,11 @@
-# Homework2
+# Dynamic Control of a 7-DOF Robotic Manipulator (Homework2)
 
 ## :package: About
-
+Goals: 
+- Development of a ROS-based control system for a 7-degree-of-freedom robotic manipulator in a Gazebo simulation environment.
+- Trajectory planning using trapezoidal and cubic polynomial velocity profiles, implementing a joint-space inverse dynamics controller, and an operational space inverse dynamics controller.
+  
+Tests and results are included in the report file, using both position-based and effort-based controllers. Code and simulation videos are available on GitHub and YouTube.
 This package contains the developed code for the second homework of the Robotics Lab 2024/25 Course. The authors of the package are:
 William Notaro, Chiara Panagrosso, Salvatore Piccolo, Roberto Rocco
 
